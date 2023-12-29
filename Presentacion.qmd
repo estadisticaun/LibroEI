@@ -1,6 +1,7 @@
 ---
-title: "Estadísticas e Indicadores en la Gestión Pública"
-author: "<br>Alberto Rodríguez Rodríguez<br>David Santiago Hernandez Ardila<br><br>Dirección Nacional de Planeación y Estadística - UNAL"
+title: <h3>Estadísticas e Indicadores en la Gestión Pública</h3>
+subtitle: <img src="Imagenes/EstadisticasInd.jpg" alt="Estadísticas e Indicadores" width="200" height="250">
+author: "David Santiago Hernandez Ardila<br>Alberto Rodríguez Rodríguez<br>Dirección Nacional de Planeación y Estadística - UNAL"
 format: 
   revealjs:
     code-fold: true
@@ -16,9 +17,8 @@ editor: visual
 <br>
 
 ::: columns
-
 ::: {.column width="50%"}
-[![](Imagenes/QRPresentacion.png){height="400"}]()
+![](Imagenes/QRPresentacion.png){height="400"}
 :::
 
 ::: {.column width="50%"}
@@ -26,63 +26,96 @@ editor: visual
 :::
 :::
 
-
 ## ¿Qué es el Sistema de Estadísticas Oficiales de la UNAL? {.center}
 
 <br>
 
 El Sistema de Estadísticas Oficiales de la UNAL está conformado por los instrumentos y las herramientas orientadas a la gestión y disposición de las cifras estadísticas oficiales, así como al uso y extracción del valor contenido en los datos institucionales.
 
-## Capítulo I. Información y gestión pública {.center}
+## Capítulo I.<br><br>Información y gestión pública {.center}
 
-## Capítulo II. Las estadísticas {.center}
+## Capítulo II.<br><br>Las estadísticas {.center}
 
 ## ¿Qué son las estadísticas? {.center}
 
 ## Características de las estadísticas
 
 #### Intrínsecas
+
 #### Extrínsecas
 
 ## Características Intrínsecas
 
-1. Poblaciones o muestras
-2. Datos
-3. Cifras agregadas
-4. Desagregaciones
-5. Representación gráfica y tabular
-6. Mecanismos de divulgación y de comunicación
+1.  Poblaciones o muestras
+2.  Datos
+3.  Cifras agregadas
+4.  Desagregaciones
+5.  Representación gráfica y tabular
+6.  Mecanismos de divulgación y de comunicación
+
+## Características Intrínsecas {.smaller}
+
+::: panel-tabset
+### 1. Poblaciones o muestras
+### 2. Datos
+### 3. Cifras agregadas
+:::
+
+## Características Intrínsecas {.smaller}
+
+::: panel-tabset
+### 4. Desagregaciones
+### 5. Gráficos y tablas
+### 6. Divulgación y comunicación
+:::
 
 ## Características Extrínsecas
 
-1. Incluyentes
-2. Comparables
-3. Legales y éticas
-4. Públicas, transparentes y abiertas
-5. Uso intensivo de las TIC
-6. Metadatos
-7. Proceso estadístico
+1.  Incluyentes
+2.  Comparables
+3.  Legales y éticas
+4.  Públicas, transparentes y abiertas
+5.  Uso intensivo de las TIC
+6.  Metadatos
+7.  Proceso estadístico
 
-## Capítulo III. Los indicadores {.center}
+## Características Extrínsecas {.smaller}
+
+::: panel-tabset
+### 1. Incluyentes
+### 2. Comparables
+### 3. Legales y éticas
+### 4. Abiertas
+:::
+
+## Características Extrínsecas {.smaller}
+
+::: panel-tabset
+### 5. Uso de TIC
+### 6. Metadatos
+### 7. Proceso estadístico
+:::
+
+## Capítulo III.<br><br>Los indicadores {.center}
 
 ## ¿Qué son los indicadores? {.center}
 
 ## Tipologías de los indicadores
 
-- Indicadores cualitativos y cuantitativos
-- Indicadores temáticos
-- Indicadores de gestión
-- Indicadores según jerarquía
+-   Indicadores cualitativos y cuantitativos
+-   Indicadores temáticos
+-   Indicadores de gestión
+-   Indicadores según jerarquía
 
 ## Naturaleza matemática de los indicadores {.center}
 
-- Medidas estadísticas
-- Frecuencias (absolutas y relativas)
-- Razones
-- Tasas
-- Indices
+-   Medidas estadísticas
+-   Frecuencias (absolutas y relativas)
+-   Razones
+-   Tasas
+-   Indices
 
-## Capítulo IV. Modelo P2C-T {.center}
+## Capítulo IV.<br><br>Modelo P2C-T {.center}
 
 ## Modelo Gestión Estadística P2C-T {.center}
 
@@ -469,11 +502,16 @@ Tabla(datos = head(iris),
 
 [Universidad Nacional de Colombia](https://unal.edu.co/)<br>
 
-Correos Electrónicos:<br> 
+Correos Electrónicos:<br>
+
 <ol>
-<li>&emsp;estadistica_nal\@unal.edu.co</li>
-<li>&emsp;albrodriguezr\@unal.edu.co</li>
+
+<li> estadistica_nal\@unal.edu.co</li>
+
+<li> albrodriguezr\@unal.edu.co</li>
+
 </ol>
+
 Telefóno: (+57 1) 316 5000 ext: 18152-18519
 
 Ubicación: Carrera 45 \# 26-58, oficina 506
